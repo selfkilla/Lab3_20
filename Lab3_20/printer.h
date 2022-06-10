@@ -10,4 +10,14 @@ public:
     DataGr getData();
 };
 
+class PrintDataTypeA : Printer
+{
+
+};
+
+class PrintDataTypeB : Printer
+{
+
+};
+
 #endif // PRINTER_H
