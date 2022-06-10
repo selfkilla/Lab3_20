@@ -1,6 +1,6 @@
 #include "printer.h"
 
-Printet::Printet()
+Printer::Printer()
 {
 
 }
